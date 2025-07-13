@@ -36,8 +36,8 @@ I'm currently focusing on **Spring Boot framework** to build scalable backend sy
 
 ## 📈 GitHub Stats
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarmedhat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarmedhat&layout=compact&theme=radical)
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MooRaa86&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MooRaa86&layout=compact&theme=radical)
 
 ---
 
