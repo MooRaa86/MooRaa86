@@ -10,7 +10,7 @@ Currently, I'm diving deep into **Spring Boot**, after mastering the core fundam
 - 💻 Strong foundation in **Object-Oriented Programming**, **Data Structures**, and **Algorithms** using **C++** and **Java**  
 - 🚀 Experienced with advanced Java concepts:  
   `Streams`, `Collections`, `Multithreading`, `Exception Handling`, and `Design Patterns`  
-- 🌐 Skilled in **Java EE**, including **JSP & Servlets**  
+- 🌐 Skilled in **Spring Framework** **Java EE**, including **JSP & Servlets**  
 - 🛠️ Worked with **JPA & Hibernate** for database interaction  
 - 📊 Confident working with **Databases** and writing complex queries  
 - 🤝 Strong **Communication** and **Team Leading** skills  
