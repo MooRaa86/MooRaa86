@@ -36,12 +36,6 @@ I’m a Computer Science undergraduate passionate about building **scalable, sec
 A full-featured mentorship platform connecting students and mentors with real-time chat, video sessions, and interactive learning tools.  
 Built using **Spring Boot, Spring Security, WebSocket, MySQL, Docker**, and follows a scalable layered architecture with production-ready practices.
 
-### 🏦 Sab3 Bank System
-Secure RESTful backend for a banking system with **JWT authentication**, transaction management, and account operations using **Spring Boot & JPA**.
-
-### ✅ Task Management System
-MVC-based system with authentication and CRUD operations using **Servlets, JSP, and JDBC**.
-
 ---
 
 ## 📚 Currently Learning
