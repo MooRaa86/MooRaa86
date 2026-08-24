@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Java+%7C+Spring+Boot+%7C+Backend+Engineering;Building+Secure+%26+Scalable+Systems;Microservices+%7C+Distributed+Systems;System+Design+%7C+Cloud+%7C+DevOps" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Java+%7C+Spring+Boot+%7C+Backend+Engineering;Building+Secure+%26+Scalable+Systems;Microservices+%7C+Distributed+Systems;System+Design+%7C+Cloud+%7C+DevOps" alt="Typing SVG"/>
 
 <br/>
 <br/>
@@ -12,11 +12,15 @@
 <a href="https://www.linkedin.com/in/omar-medhat-49a519251">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="mailto:mr.omarmedhat@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="https://github.com/MooRaa86">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
@@ -25,33 +29,31 @@
 
 ---
 
-## Who I Am
+## About Me
 
 I’m **Omar Medhat**, a Software Engineer focused on **backend development and system architecture**.
 
 My primary ecosystem is **Java and Spring**, where I build secure RESTful APIs, backend services, microservices, and distributed systems.
 
-I care about more than making an application work.
-
-I’m interested in understanding **how systems should be designed**, how they scale, how services communicate, how failures are handled, and how to keep a codebase maintainable as it grows.
+I’m interested in understanding how systems should be designed, how they scale, how services communicate, how failures are handled, and how to keep a codebase maintainable as it grows.
 
 My engineering focus revolves around:
 
 ```text
 Clean Code
-    ↓
+     ↓
 Good Architecture
-    ↓
+     ↓
 Reliable Services
-    ↓
+     ↓
 Scalable Systems
-    ↓
+     ↓
 Production-Ready Software
 ```
 
 ---
 
-## My Engineering Focus
+## Engineering Focus
 
 <table>
 <tr>
@@ -59,13 +61,13 @@ Production-Ready Software
 
 ### Backend Engineering
 
-* Java
-* Spring Boot
-* Spring MVC
-* REST APIs
-* JPA / Hibernate
-* Spring Security
-* Spring Cloud
+- Java
+- Spring Boot
+- Spring MVC
+- REST APIs
+- JPA / Hibernate
+- Spring Security
+- Spring Cloud
 
 </td>
 
@@ -73,13 +75,13 @@ Production-Ready Software
 
 ### System Architecture
 
-* Microservices
-* Distributed Systems
-* Event-Driven Architecture
-* Domain-Driven Design
-* System Design
-* Service Discovery
-* API Gateway
+- Microservices
+- Distributed Systems
+- Event-Driven Architecture
+- Domain-Driven Design
+- System Design
+- Service Discovery
+- API Gateway
 
 </td>
 </tr>
@@ -89,13 +91,13 @@ Production-Ready Software
 
 ### Security
 
-* JWT
-* OAuth2
-* Keycloak
-* CORS
-* CSRF
-* Role-Based Access Control
-* Custom Security Filters
+- JWT
+- OAuth2
+- Keycloak
+- CORS
+- CSRF
+- Role-Based Access Control
+- Custom Security Filters
 
 </td>
 
@@ -103,13 +105,13 @@ Production-Ready Software
 
 ### Infrastructure
 
-* Docker
-* Docker Compose
-* AWS
-* Linux
-* Git / GitHub
-* CI/CD
-* Distributed Tracing
+- Docker
+- Docker Compose
+- AWS
+- Linux
+- Git / GitHub
+- CI/CD
+- Distributed Tracing
 
 </td>
 </tr>
@@ -117,7 +119,7 @@ Production-Ready Software
 
 ---
 
-## Technologies I Work With
+## Technologies
 
 <div align="center">
 
@@ -143,6 +145,10 @@ Production-Ready Software
 
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,kafka,postman" />
 
+<br/><br/>
+
+`REST APIs` · `Microservices` · `Spring Cloud` · `JPA/Hibernate` · `JWT` · `OAuth2` · `Keycloak` · `WebSocket`
+
 </div>
 
 ---
@@ -151,31 +157,25 @@ Production-Ready Software
 
 I’m particularly interested in the engineering decisions behind a system.
 
-**Architecture**
-
+**Architecture**  
 How should the system be structured?
 
-**Scalability**
-
+**Scalability**  
 What happens when traffic and data grow?
 
-**Reliability**
-
+**Reliability**  
 How should the system behave when something fails?
 
-**Security**
-
+**Security**  
 How do we protect users, services, and data?
 
-**Maintainability**
-
+**Maintainability**  
 Can another engineer understand and extend the code?
 
-**Performance**
-
+**Performance**  
 Where are the actual bottlenecks, and how should they be solved?
 
-These questions are what drive my interest in **System Design and Distributed Systems**.
+These questions drive my interest in **System Design and Distributed Systems**.
 
 ---
 
@@ -183,7 +183,7 @@ These questions are what drive my interest in **System Design and Distributed Sy
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=40&lines=Advanced+System+Design;Distributed+Systems;Microservices+Architecture;Event-Driven+Architecture;Spring+Cloud;Cloud+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=40&lines=Advanced+System+Design;Distributed+Systems;Microservices+Architecture;Event-Driven+Architecture;Spring+Cloud;Cloud+Architecture" alt="Currently Learning"/>
 
 </div>
 
@@ -191,7 +191,7 @@ My current goal is to move beyond simply developing backend features and become 
 
 ---
 
-## My Development Principles
+## Development Principles
 
 ```text
 01  Understand the problem before writing code.
@@ -217,7 +217,7 @@ My current goal is to move beyond simply developing backend features and become 
 
 **B.Sc. in Computer Science**
 
-Faculty of Computer and Information
+Faculty of Computer and Information  
 Menofia University
 
 `2022 — 2026`
@@ -228,37 +228,29 @@ Menofia University
 
 ## Professional Training
 
-**Spring Boot Backend Development**
-Madan Reddy
+### Spring Boot Backend Development
+
+**Madan Reddy**
+
 Spring Boot · Spring Security · REST APIs · JPA/Hibernate · AWS
 
-**Spring Security Development**
-Madan Reddy
+### Spring Security Development
+
+**Madan Reddy**
+
 JWT · OAuth2 · CORS · CSRF · Custom Security Filters · Keycloak
 
-**Core Java Bootcamp**
-Mosh Hamedani
+### Core Java Bootcamp
+
+**Mosh Hamedani**
+
 OOP · Collections · Streams · Multithreading · Modern Java
 
-**Data Analysis Training**
-National Telecommunication Institute
+### Data Analysis Training
+
+**National Telecommunication Institute**
+
 Python · SQL · Excel · Power BI · Data Visualization
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MooRaa86&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooRaa86&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MooRaa86&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 ---
 
@@ -266,13 +258,22 @@ Python · SQL · Excel · Power BI · Data Visualization
 
 My repositories reflect my journey through:
 
-**Backend Development → Security → Microservices → Distributed Systems → System Design**
-
-You can explore my work through the repositories below.
-
 <div align="center">
 
-<a href="https://github.com/MooRaa86">
+`Backend Development`
+&nbsp; → &nbsp;
+`Security`
+&nbsp; → &nbsp;
+`Microservices`
+&nbsp; → &nbsp;
+`Distributed Systems`
+&nbsp; → &nbsp;
+`System Design`
+
+<br/>
+<br/>
+
+<a href="https://github.com/MooRaa86?tab=repositories">
 <img src="https://img.shields.io/badge/Explore%20My%20Repositories-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -280,31 +281,91 @@ You can explore my work through the repositories below.
 
 ---
 
-## Let's Connect
-
-I’m always interested in connecting with other engineers, discussing backend architecture, system design, and interesting software engineering problems.
+# GitHub
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/omar-medhat-49a519251">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img
+  src="./profile-summary-card-output/github/2026-08-24/stats.svg"
+  width="48%"
+  alt="GitHub Statistics"
+/>
 
- 
-
-<a href="mailto:mr.omarmedhat@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img
+  src="./profile-summary-card-output/github/2026-08-24/repos-per-language.svg"
+  width="48%"
+  alt="Repositories Per Language"
+/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MooRaa86&style=flat-square&color=0ea5e9&label=Profile+Views"/>
+<img
+  src="./profile-summary-card-output/github/2026-08-24/most-commit-language.svg"
+  width="48%"
+  alt="Most Used Languages"
+/>
+
+<img
+  src="./profile-summary-card-output/github/2026-08-24/productive-time.svg"
+  width="48%"
+  alt="Productive Time"
+/>
+
+<br/><br/>
+
+<img
+  src="./profile-summary-card-output/profile-details.svg"
+  width="100%"
+  alt="GitHub Profile Details"
+/>
 
 </div>
 
 ---
 
+## Contribution Activity
+
 <div align="center">
+
+<img
+  src="./output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+I’m always interested in connecting with engineers, discussing backend architecture, system design, and interesting software engineering problems.
+
+<br/>
+<br/>
+
+<a href="https://www.linkedin.com/in/omar-medhat-49a519251">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:mr.omarmedhat@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=MooRaa86&style=flat-square&color=0ea5e9&label=Profile+Views"
+  alt="Profile Views"
+/>
+
+<br/>
+<br/>
 
 <sub>Building systems. Learning continuously. Engineering with purpose.</sub>
 
