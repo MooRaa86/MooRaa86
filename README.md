@@ -281,57 +281,63 @@ My repositories reflect my journey through:
 
 ---
 
-# GitHub
+## GitHub Activity
 
 <div align="center">
 
-<img
-  src="./profile-summary-card-output/github/2026-08-24/stats.svg"
-  width="48%"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="./profile-summary-card-output/github/2026-08-24/repos-per-language.svg"
-  width="48%"
-  alt="Repositories Per Language"
-/>
-
-<br/><br/>
-
-<img
-  src="./profile-summary-card-output/github/2026-08-24/most-commit-language.svg"
-  width="48%"
-  alt="Most Used Languages"
-/>
-
-<img
-  src="./profile-summary-card-output/github/2026-08-24/productive-time.svg"
-  width="48%"
-  alt="Productive Time"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/overview.dark.svg"
+  />
+  <img
+    src="./assets/overview.light.svg"
+    alt="GitHub Overview"
+    width="100%"
+  />
+</picture>
 
 <br/><br/>
 
-<img
-  src="./profile-summary-card-output/profile-details.svg"
-  width="100%"
-  alt="GitHub Profile Details"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/contributions.dark.svg"
+  />
+  <img
+    src="./assets/contributions.light.svg"
+    alt="GitHub Contributions"
+    width="100%"
+  />
+</picture>
 
-</div>
+<br/><br/>
 
----
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/languages.dark.svg"
+  />
+  <img
+    src="./assets/languages.light.svg"
+    alt="GitHub Languages"
+    width="100%"
+  />
+</picture>
 
-## Contribution Activity
+<br/><br/>
 
-<div align="center">
-
-<img
-  src="./output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/rhythm.dark.svg"
+  />
+  <img
+    src="./assets/rhythm.light.svg"
+    alt="GitHub Activity Rhythm"
+    width="100%"
+  />
+</picture>
 
 </div>
 
